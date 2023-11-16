@@ -8,7 +8,7 @@
 
 <h3 align="center">
 
-🌱 I’m currently learning ReactJS and MongoSB
+🌱 We are currently learning ReactJS and MongoSB
  
 
 ⚡ Fun fact The first computer “bug” was an actual real-life bug
