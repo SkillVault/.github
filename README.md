@@ -3,7 +3,7 @@
 <h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&color=63F749&center=true&size=24&width=1200&lines=We+are+SkillVault;&duration=3000)](https://git.io/typing-svg) 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bibs23&label=Profile%20views&color=0e75b6&style=flat" alt="bibs23" /> </p>
+
 </h1>
 
 
@@ -19,7 +19,7 @@
 
 
 <h2 align="center">Languages and Tools:</h2>
-<br>
+
 <p align="center"> 
  <img src="https://www.svgrepo.com/show/354259/react.svg" alt="c" width="40" height="40"/> 
  <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="dart" width="40" height="40"/> 
@@ -29,7 +29,7 @@
 
 
 </p>
-<br>
+
  
 
 <div>
